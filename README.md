@@ -32,7 +32,7 @@ Course for Fifth Year Medical Students at New Mansoura University
             </td>
              </tr> 
       <tr>
-            <td> 2-3 </td>
+            <td> 5-6 </td>
            <td> 
               <ul>
                 <li> <a href="Artificial Intelligence in Medicine_Lecture44.pdf"> <b> Lecture 2-3 </b></a> </li>

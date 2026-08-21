@@ -48,7 +48,7 @@ Course for Fifth Year Medical Students at New Mansoura University
                 <li> <a href="Artificial Intelligence in Medicine_Lecture5.pdf"> <b> Lecture 7 </b></a> </li>
                    <li> <a href="Google_Teachable_Machine.ipynb"> <b> Load and Test the Google Teachable Machine Model in Google Colab
  </b></a> </li>
-                                   <li> <a href="Google_Teachable_Machine.ipynb"> <b> Google Teachable Machine Toy Example Files
+                                   <li> <a href="/Google Teachable Machine"> <b> Google Teachable Machine Toy Example Files
  </b></a> </li>
                </ul>
             </td>

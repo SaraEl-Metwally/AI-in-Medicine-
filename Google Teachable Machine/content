@@ -1,0 +1,3 @@
+project.tm ==> import this file into Google teachable machine to open the project 
+keras_model.h5 ==> the actual trained model saved in .h5 foramt 
+labels.txt ===> the label files for classes 

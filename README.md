@@ -36,7 +36,7 @@ Course for Fifth Year Medical Students at New Mansoura University
            <td> 
               <ul>
                 <li> <a href="Artificial Intelligence in Medicine_Lecture44.pdf"> <b> Lecture 5-6 </b></a> </li>
-                   <li> <a href="Training_Of_Diabetes__AI_for_medicine.ipynb"> <b>Exploring the Diabetes Disease Dataset
+                   <li> <a href="Training_Of_Diabetes__AI_for_medicine.ipynb"> <b> Train ML using Diabetes Disease Dataset
  </b></a> </li>
                </ul>
             </td>

@@ -1,0 +1,2 @@
+0 Skin Cancer
+1 Not a Skin Cancer
